@@ -7,8 +7,8 @@ const btnRoll = () => {
     randomNumberDice1 = Math.floor(Math.random() * 6) + 1;
     randomNumberDice2 = Math.floor(Math.random() * 6) + 1;
 
-    dice1.src = `images/dice${randomNumberDice1}.png`;
-    dice2.src = `images/dice${randomNumberDice2}.png`;
+    dice1.src = `./images/dice${randomNumberDice1}.png`;
+    dice2.src = `./images/dice${randomNumberDice2}.png`;
 
     if (randomNumberDice1 > randomNumberDice2) {
         h1.innerText = "🚩 Player 1 Wins"
