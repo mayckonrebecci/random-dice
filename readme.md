@@ -1,4 +1,4 @@
-# random-dice
+# random-Dice
 <a href="https://mayckonrebecci.github.io/random-dice/"><strong>RANDOM DICE PAGE</strong></a>
 
 Random Dice made with HTML, CSS and Javascript
